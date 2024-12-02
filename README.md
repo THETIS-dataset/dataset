@@ -8,33 +8,33 @@ There are five directories corresponding to the five types of recordings: Video_
 These are the contents in each subdirectory of the VIDEO_Skelet3D and VIDEO_Skelet2D folders.
 
 Skelet2D:
-1.backhand  {p7,p28,p33,p45}x0, {p1,p5,p6,p12,p13,p17,p18,p22,p29,p32,p40,p50}x 1,  {p2,p3,p23,p26,p46,p51,p53,p54}x 3 , 
-2.backhand2hands  {p8}x0, {p11,p14,p23,p34,p55 }x 1, {p6,p20,p53}x 3,other subjects x 2
-3.backhand_slice  {p8}x0, {p2,p7,p10,p12,p25,p27,p41,p43,p44,p47,p55}x 1, {p6,p20,p53}x 3, other subjects x 2
-4.forehand_flat	  {p6,p19,p21,p32,p50,p55}x1, {p3,p4,p8,p11,p31,p49}x 3, other subjects x 2
-5.forehand_openstands	{p7,p12,p15,p21,p22,p33,P35,p36,p58,p50,p52}x 1, {p3,p4,p9,p53}x 3, other subjects x 2
-6.forehand_slice  {p6,p7,p28,p32,p33,p34,p35,p40,p44,p45,p47,p48,p49,p50}x 1,{p1}x 3, other subjects x 2
-7.flat_service	  {p37,p50,p22,p55}x0, {p1,p3,p5,p7,p13,p33,p36,p41,p45,p51 }x 1, {p2,p40,p44,54} x 3, other subjects x 2
-8.kick_service	  {p37}x0, {p3,p8,p21,p27,p28,p32,p45 }x 1, {p1,p7,p11,p17,p31,p44,p48,p49,p53} x 3, other subjects x 2
-9.slice_service   {p37}x0, {p2,p7,p11,p12,p19,p22,p31,p36,p41,p45,p52,p55}x 1, {p21,p51} x 3, other subjects x 2
-10.smash   {p11,p37,p45}x0, {p3,p22,p27,p32,p34,p43}x 1, {p5,p16,p25,p28,p42,p55} x 3, other subjects x 2
-11.forehand_volley    {p32,p49,p50}x0, {p7,p12,p21,p26,p27,p33,p34,p36,p37,p43,p51,p52,p53 }x 1, {p30} x 3, 
-12.backhand_volley    {p32,p37}x0, {p5,p21,p22,p27,p35,p37,p45}x 1, {p2,p13,p41,p48,p51} x 3, other subjects x 2
+1. backhand  {p7,p28,p33,p45}x0, {p1,p5,p6,p12,p13,p17,p18,p22,p29,p32,p40,p50}x 1,  {p2,p3,p23,p26,p46,p51,p53,p54}x 3 , 
+2. backhand2hands  {p8}x0, {p11,p14,p23,p34,p55 }x 1, {p6,p20,p53}x 3,other subjects x 2
+3. backhand_slice  {p8}x0, {p2,p7,p10,p12,p25,p27,p41,p43,p44,p47,p55}x 1, {p6,p20,p53}x 3, other subjects x 2
+4. forehand_flat	  {p6,p19,p21,p32,p50,p55}x1, {p3,p4,p8,p11,p31,p49}x 3, other subjects x 2
+5. forehand_openstands	{p7,p12,p15,p21,p22,p33,P35,p36,p58,p50,p52}x 1, {p3,p4,p9,p53}x 3, other subjects x 2
+6. forehand_slice  {p6,p7,p28,p32,p33,p34,p35,p40,p44,p45,p47,p48,p49,p50}x 1,{p1}x 3, other subjects x 2
+7. flat_service	  {p37,p50,p22,p55}x0, {p1,p3,p5,p7,p13,p33,p36,p41,p45,p51 }x 1, {p2,p40,p44,54} x 3, other subjects x 2
+8. kick_service	  {p37}x0, {p3,p8,p21,p27,p28,p32,p45 }x 1, {p1,p7,p11,p17,p31,p44,p48,p49,p53} x 3, other subjects x 2
+9. slice_service   {p37}x0, {p2,p7,p11,p12,p19,p22,p31,p36,p41,p45,p52,p55}x 1, {p21,p51} x 3, other subjects x 2
+10. smash   {p11,p37,p45}x0, {p3,p22,p27,p32,p34,p43}x 1, {p5,p16,p25,p28,p42,p55} x 3, other subjects x 2
+11. forehand_volley    {p32,p49,p50}x0, {p7,p12,p21,p26,p27,p33,p34,p36,p37,p43,p51,p52,p53 }x 1, {p30} x 3, 
+12. backhand_volley    {p32,p37}x0, {p5,p21,p22,p27,p35,p37,p45}x 1, {p2,p13,p41,p48,p51} x 3, other subjects x 2
 
 
 Skelet3D:
-1.backhand  {p7,p28,p33,p45}x0, {p1,p5,p6,p12,p13,p17,p18,p22,p29,p32,p40,p50}x 1,  {p2,p3,p23,p26,p46,p51,p53,p54}x 3 , 
-2.backhand2hands  {p8}x0, {p11,p14,p23,p34,p55 }x 1, {p6,p20,p53}x 3,other subjects x 2
-3.backhand_slice  {p8}x0, {p2,p7,p10,p12,p25,p27,p41,p43,p44,p47,p55}x 1, {p6,p20,p53}x 3, other subjects x 2
-4.forehand_flat	  {p6,p19,p21,p32,p50,p55}x1, {p3,p4,p8,p11,p31,p49}x 3, other subjects x 2
-5.forehand_openstands	{p7,p12,p15,p21,p22,p33,P35,p36,p58,p50,p52}x 1, {p3,p4,p9,p53}x 3, other subjects x 2
-6.forehand_slice  {p6,p7,p28,p32,p33,p34,p35,p40,p44,p45,p47,p48,p49,p50}x 1,{p1}x 3, other subjects x 2
-7.flat_service	  {p37,p50,p22,p55}x0, {p1,p3,p5,p7,p13,p33,p36,p41,p45,p51 }x 1, {p2,p40,p44,54} x 3, other subjects x 2
-8.kick_service	  {p37}x0, {p3,p8,p21,p27,p28,p32,p45 }x 1, {p1,p7,p11,p17,p31,p44,p48,p49,p53} x 3, other subjects x 2
-9.slice_service   {p37}x0, {p2,p7,p11,p12,p19,p22,p31,p36,p41,p45,p52,p55}x 1, {p21,p51} x 3, other subjects x 2
-10.smash   {p11,p37,p45}x0, {p3,p22,p27,p32,p34,p43}x 1, {p5,p16,p25,p28,p42,p55} x 3, other subjects x 2
-11.forehand_volley    {p32,p49,p50}x0, {p7,p12,p21,p26,p27,p33,p34,p36,p37,p43,p51,p52,p53 }x 1, {p30} x 3, 
-12.backhand_volley    {p32,p37}x0, {p5,p21,p22,p27,p35,p37,p45}x 1, {p2,p13,p41,p48,p51} x 3, other subjects x 2
+1. backhand  {p7,p28,p33,p45}x0, {p1,p5,p6,p12,p13,p17,p18,p22,p29,p32,p40,p50}x 1,  {p2,p3,p23,p26,p46,p51,p53,p54}x 3 , 
+2. backhand2hands  {p8}x0, {p11,p14,p23,p34,p55 }x 1, {p6,p20,p53}x 3,other subjects x 2
+3. backhand_slice  {p8}x0, {p2,p7,p10,p12,p25,p27,p41,p43,p44,p47,p55}x 1, {p6,p20,p53}x 3, other subjects x 2
+4. forehand_flat	  {p6,p19,p21,p32,p50,p55}x1, {p3,p4,p8,p11,p31,p49}x 3, other subjects x 2
+5. forehand_openstands	{p7,p12,p15,p21,p22,p33,P35,p36,p58,p50,p52}x 1, {p3,p4,p9,p53}x 3, other subjects x 2
+6. forehand_slice  {p6,p7,p28,p32,p33,p34,p35,p40,p44,p45,p47,p48,p49,p50}x 1,{p1}x 3, other subjects x 2
+7. flat_service	  {p37,p50,p22,p55}x0, {p1,p3,p5,p7,p13,p33,p36,p41,p45,p51 }x 1, {p2,p40,p44,54} x 3, other subjects x 2
+8. kick_service	  {p37}x0, {p3,p8,p21,p27,p28,p32,p45 }x 1, {p1,p7,p11,p17,p31,p44,p48,p49,p53} x 3, other subjects x 2
+9. slice_service   {p37}x0, {p2,p7,p11,p12,p19,p22,p31,p36,p41,p45,p52,p55}x 1, {p21,p51} x 3, other subjects x 2
+10. smash   {p11,p37,p45}x0, {p3,p22,p27,p32,p34,p43}x 1, {p5,p16,p25,p28,p42,p55} x 3, other subjects x 2
+11. forehand_volley    {p32,p49,p50}x0, {p7,p12,p21,p26,p27,p33,p34,p36,p37,p43,p51,p52,p53 }x 1, {p30} x 3, 
+12. backhand_volley    {p32,p37}x0, {p5,p21,p22,p27,p35,p37,p45}x 1, {p2,p13,p41,p48,p51} x 3, other subjects x 2
 
 If you use the THETIS dataset in your work, please cite one of the following papers:
 * Gourgari, S., Goudelis, G., Karpouzis, K., & Kollias, S. (2013). Thetis: Three dimensional tennis shots a human action dataset. In _Proceedings of the IEEE conference on computer vision and pattern recognition workshops_ (pp. 676-681).
