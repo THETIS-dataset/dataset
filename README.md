@@ -37,6 +37,6 @@ Skelet3D:
 12. backhand_volley    {p32,p37}x0, {p5,p21,p22,p27,p35,p37,p45}x 1, {p2,p13,p41,p48,p51} x 3, other subjects x 2
 
 If you use the THETIS dataset in your work, please cite one of the following papers:
-* Gourgari, S., Goudelis, G., Karpouzis, K., & Kollias, S. (2013). Thetis: Three-dimensional tennis shots a human action dataset. In _Proceedings of the IEEE conference on computer vision and pattern recognition workshops_ (pp. 676-681). [download]https://openaccess.thecvf.com/content_cvpr_workshops_2013/W08/papers/Gourgari_THETIS_Three_Dimensional_2013_CVPR_paper.pdf)
+* Gourgari, S., Goudelis, G., Karpouzis, K., & Kollias, S. (2013). Thetis: Three-dimensional tennis shots a human action dataset. In _Proceedings of the IEEE conference on computer vision and pattern recognition workshops_ (pp. 676-681). [download](https://openaccess.thecvf.com/content_cvpr_workshops_2013/W08/papers/Gourgari_THETIS_Three_Dimensional_2013_CVPR_paper.pdf)
 * Goudelis, G., Tsatiris, G., Karpouzis, K., & Kollias, S. (2017, August). 3D Cylindrical Trace Transform based feature extraction for effective human action classification. In _2017 IEEE Conference on Computational Intelligence and Games (CIG)_ (pp. 96-103). IEEE. [download](http://www.image.ntua.gr/papers/909.pdf)
 * Varia, C., Tsatiris, G., Karpouzis, K., & Kollias, S. (2018, August). A refined 3d dataset for the analysis of player actions in exertion games. In _2018 IEEE Conference on Computational Intelligence and Games (CIG)_ (pp. 1-4). IEEE. [link](https://ieeexplore.ieee.org/abstract/document/8490458) 
