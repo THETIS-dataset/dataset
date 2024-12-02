@@ -1,4 +1,4 @@
-# H1 THETIS (Three dimEnsional TennIs Shots)
+# THETIS (Three dimEnsional TennIs Shots)
 The dataset THETIS (Three dimEnsional TennIs Shots) was captured by a Kinect device. It consists of 8374 video sequences performed by 55 subjects, 31 beginners and 24 experts in playing tennis. Each sequence contains one type of action. There are 12 different classes of tennis actions : Backhand with two hands, Backhand, Backhand slice, Backhand volley, Forehand flat, Forehand open stands, Forehand slice, Forehand volley, Service flat, Service kick, Service slice, Smash.The scenes are indoor and there is a variety of background.
 
 Each subject performs each activity two to four times and five types of video files are saved : 55x12x3= 1980 depth (.avi)  55x12x3= 1980, mask(silhouette) (.avi), 55x12x3= 1980 RGB (.avi), 1217 skeleton 2D (.avi), 1217 skeleton 3D (.avi). As far as the skeleton sequences are concerned, the calibration pose required for the extraction of the skeleton joints is not always successful, so skeleton sequences are fewer than other types of sequences.
